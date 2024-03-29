@@ -6,7 +6,7 @@ Effacer la partition existante sur sdb
 
 ![effacer](https://github.com/Seyia11/perso-point/blob/main/0.effacer.PNG?raw=true)
 
-1. creation 2 partitions
+1. Création 2 partitions
 
 ![création](https://github.com/Seyia11/perso-point/blob/main/exercice1/1.creationpartition.PNG?raw=true)
 
